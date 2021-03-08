@@ -59,8 +59,7 @@ def penguin(x):
         return "endangered"
     if x == "humboldt penguin":
         return "vulnerable"
-    if x == "magellanic penguin":
-        return "near threatened"
+
     if x == "galapagos penguin":
         return "endangered"
 
