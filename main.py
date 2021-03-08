@@ -27,41 +27,41 @@ def doubleWord(x):
 print(doubleWord("word"))
 
 def penguin(x):
-    if x == "Emperor penguin":
-        return "Near Threatened"
-    if x =="King penguin":
-        return "Least Concern"
-    if x == "Little penguin":
-        return "Least Concern"
-    if x == "Southern rockhopper penguin":
-        return "Vulnerable"
-    if x == "Macaroni penguin":
-        return "Vulnerable"
-    if x == "Nothern rockhopper penguin":
-        return "Endangered"
-    if x == "Fiordland penguin":
-        return "Vulnerable"
-    if x == "Snares penguin":
-        return "Vulnerable"
-    if x == "Royal penguin":
-        return "Near Threatened"
-    if x == "Erect-creasted penguin":
-        return "Endangered"
-    if x == "Yellow-eyed penguin":
-        return "Endangered"
-    if x == "Adelie penguin":
-        return "Least Concern"
-    if x == "Chinstrap penguin":
-        return "Least concern"
-    if x == "Gentoo penguin":
-        return "Least concern"
-    if x == "African penguin":
-        return "Endangered"
-    if x == "Humboldt penguin":
-        return "Vulnerable"
-    if x == "Magellanic penguin":
-        return "Near Threatened"
-    if x == "Galapagos penguin":
-        return "Endangered"
+    if x == "emperor penguin":
+        return "near threatened"
+    if x =="king penguin":
+        return "least concern"
+    if x == "little penguin":
+        return "least concern"
+    if x == "southern rockhopper penguin":
+        return "vulnerable"
+    if x == "macaroni penguin":
+        return "vulnerable"
+    if x == "nothern rockhopper penguin":
+        return "endangered"
+    if x == "fiordland penguin":
+        return "vulnerable"
+    if x == "snares penguin":
+        return "vulnerable"
+    if x == "royal penguin":
+        return "near threatened"
+    if x == "erect-creasted penguin":
+        return "endangered"
+    if x == "yellow-eyed penguin":
+        return "endangered"
+    if x == "adelie penguin":
+        return "least concern"
+    if x == "chinstrap penguin":
+        return "least concern"
+    if x == "gentoo penguin":
+        return "least concern"
+    if x == "african penguin":
+        return "endangered"
+    if x == "humboldt penguin":
+        return "vulnerable"
+    if x == "magellanic penguin":
+        return "near threatened"
+    if x == "galapagos penguin":
+        return "endangered"
 
 print(penguin("African penguin"))
