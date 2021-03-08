@@ -64,4 +64,4 @@ def penguin(x):
     if x == "galapagos penguin":
         return "endangered"
 
-print(penguin("African penguin"))
+print(penguin("african penguin"))
